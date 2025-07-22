@@ -77,7 +77,7 @@ python live_demo.py --model dmcount_self_attention.pth
 
 - Taher Merchant
 
-# © 2025 | For academic and research use only.
+## © 2025 | For academic and research use only.
 
 ```CSS
 
